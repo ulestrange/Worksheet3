@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Worksheet3", "Worksheet3\Worksheet3.csproj", "{F36A2DED-8F41-4304-9E44-79CE30EBDFF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F36A2DED-8F41-4304-9E44-79CE30EBDFF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36A2DED-8F41-4304-9E44-79CE30EBDFF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36A2DED-8F41-4304-9E44-79CE30EBDFF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36A2DED-8F41-4304-9E44-79CE30EBDFF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC9C0AD6-D116-4C83-8327-2D5BF4D06118}
+	EndGlobalSection
+EndGlobal
